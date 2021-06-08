@@ -1,8 +1,8 @@
 ### <h2 align="center">Hi there👋, I'm [Yuvaraj](https://github.com/yuvan11/)</h2> 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuvaraj-ramsamy/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/yuvan11/)
-[![GitLab Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/yuvan11/)
-[![Twitter Badge](https://img.shields.io/badge/-Gitlab-00acee?style=flat-square&logo=GitLab&logoColor=white)](https://gitlab.com/yuvan11)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-3b5998?style=flat-square&logo=Twitter&logoColor=white)](https://mobile.twitter.com/yuvaraj_11_/)
+[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-00acee?style=flat-square&logo=GitLab&logoColor=white)](https://gitlab.com/yuvan11)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/explorer_11_/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/explorer_11/)
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-00aceee?style=flat-square&logo=Leetcode&logoColor=yellow)](https://leetcode.com/unitedemotions/)
