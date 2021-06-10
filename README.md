@@ -1,6 +1,7 @@
 ### <h2 align="center">Hi there👋, I'm [Yuvaraj](https://github.com/yuvan11/)</h2> 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuvaraj-ramsamy/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/yuvan11/)
+[![Facebook Badge](https://img.shields.io/badge/FaceBook-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/people/Yuvaraj/100004464395583/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-3b5998?style=flat-square&logo=Twitter&logoColor=white)](https://mobile.twitter.com/yuvaraj_11_/)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-00acee?style=flat-square&logo=GitLab&logoColor=white)](https://gitlab.com/yuvan11)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/explorer_11_/)
