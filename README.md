@@ -103,7 +103,7 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
         <td><img alt="Forks" src="https://img.shields.io/github/forks/yuvan11/yuvan11?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/yuvan11/yuvan11?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yuvan11/yuvan11?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/yuvan11/yuvan11?label=markdown&style=flat-square"/></td> 
+     	 <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
       </tr>
       <tr>
 	      <td><a href="https://github.com/yuvan11/ContactsBook"><b><img src="https://emojis.slackmojis.com/emojis/images/1622514800/42609/bookmark.png?1622514800" height="15" width="15"> ContactBook</b></a></td>
