@@ -18,7 +18,7 @@
 
 
 
-I'm a final year student pursuing Bachelors's in Information Technology 🎓 from [SJIT](https://www.stjosephstechnology.ac.in/web/index.html) 🏛. I'm a passionate learner and developer who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a graduated student holding a bachelor degree in Information Technology 🎓 from SJIT 🏛. I am full-stack developer but love to work in back-end development and also love to contribute open-source🎯. I'm a passionate learner and developer who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvan11&label=Profile%20views&color=0e75b6&style=flat" alt="yuvan11" /> </p>
 
@@ -31,7 +31,7 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yuvan11) and [Gitlab](https://gitlab.com/yuvan11).
 - 👾 &nbsp; Quote: Take risks and move forward.
 - 📫 &nbsp; How to reach me: yuva.ram11@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1k_miLAzTVynlQX32ewFKnWimW_Oqfy4R/view?usp=sharing).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1xuZ6ZmNEk4Oo30q0xIrRifVRNl5mC5Mz/view?usp=drivesdk).
 
 ### My Absolute Favorites:
 
