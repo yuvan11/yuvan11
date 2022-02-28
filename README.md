@@ -1,5 +1,5 @@
 ### <h2 align="center">Hi there👋, I'm [Yuvaraj](https://github.com/yuvan11/)</h2> 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuvaraj-ramsamy/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/yuvan11/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://yuvan11.github.io/personal_website/)
 [![Facebook Badge](https://img.shields.io/badge/FaceBook-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/people/Yuvaraj/100004464395583/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-3b5998?style=flat-square&logo=Twitter&logoColor=white)](https://mobile.twitter.com/yuvaraj_11_/)
