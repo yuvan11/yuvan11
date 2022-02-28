@@ -7,7 +7,7 @@
 [![StackOverFlow Badge](https://img.shields.io/badge/-StackOverFlow-00acee?style=flat-square&logo=StackOverFlow&logoColor=white)](https://stackoverflow.com/users/13635342/yuvaraj)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/explorer_11_/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/explorer_11/)
-[![Leetcode Badge](https://img.shields.io/badge/-LeetCode-00aceee?style=flat-square&logo=Leetcode&logoColor=yellow)](https://leetcode.com/unitedemotions/)
+[![Leetcode Badge](https://img.shields.io/badge/-LeetCode-00aceee?style=flat-square&logo=Leetcode&logoColor=yellow)](https://leetcode.com/yuvan11/)
 [![CodeForces Badge](https://img.shields.io/badge/-CodeForces-00acee?style=flat-square&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/yuvaraj_11)
 
 
