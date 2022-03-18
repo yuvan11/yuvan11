@@ -55,11 +55,9 @@ I'm a graduated student holding a bachelor degree in Information Technology 🎓
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-
-
 ### Projects and Dev Stuffs:
 
-<details>	
+<!-- <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
@@ -72,10 +70,10 @@ I'm a graduated student holding a bachelor degree in Information Technology 🎓
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=yuvan11&hide_border=true" />
-</details>
+</details> -->
 
-<details>
-  <summary><b>🚀 Major Projects</b></summary>
+
+<!--   <summary><b>🚀 Major Projects</b></summary> -->
 
   <br />
   <table>
@@ -149,4 +147,5 @@ I'm a graduated student holding a bachelor degree in Information Technology 🎓
     </tbody>
   </table>
   <br />
-</details>
+
+![Metrics](https://metrics.lecoq.io/yuvan11?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FCalcutta)
