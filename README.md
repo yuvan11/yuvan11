@@ -88,6 +88,16 @@ I'm a graduated student holding a bachelor degree in Information Technology 🎓
       </tr>
     </thead>
     <tbody>
+	        <tr>
+	   <td><a href="https://github.com/yuvan11/go-twitter-helper-bot"><b> 
+	<img  src="https://user-images.githubusercontent.com/49576526/159121117-411241bb-5128-468d-aeef-bee74aff23cd.svg" height="25"> wazirx-go</b></a>
+	</td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yuvan11/wazirx-go?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/yuvan11/wazirx-go?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/yuvan11/wazirx-go?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yuvan11/wazirx-go?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/yuvan11/wazirx-go?label=go&style=flat-square"/></td> 
+      </tr>
 	     <tr>
 	      <td><a href="https://github.com/yuvan11/go-twitter-helper-bot"><b>🤖 go-twitter-helper-bot</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yuvan11/go-twitter-helper-bot?style=flat-square&labelColor=343b41"/></td>
