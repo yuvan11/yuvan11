@@ -89,7 +89,7 @@ I'm a graduated student holding a bachelor degree in Information Technology 🎓
     </thead>
     <tbody>
 	        <tr>
-	   <td><a href="https://github.com/yuvan11/go-twitter-helper-bot"><b> 
+	   <td><a href="https://github.com/yuvan11/wazirx-go"><b> 
 	<img  src="https://user-images.githubusercontent.com/49576526/159121117-411241bb-5128-468d-aeef-bee74aff23cd.svg" height="25"> wazirx-go</b></a>
 	</td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yuvan11/wazirx-go?style=flat-square&labelColor=343b41"/></td>
