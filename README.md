@@ -31,7 +31,7 @@ I'm a graduated student holding a bachelor degree in Information Technology 🎓
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yuvan11) and [Gitlab](https://gitlab.com/yuvan11).
 - 👾 &nbsp; Quote: Take risks and move forward.
 - 📫 &nbsp; How to reach me: yuva.ram11@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1xuZ6ZmNEk4Oo30q0xIrRifVRNl5mC5Mz/view?usp=drivesdk).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1_ZcMn952MsDLqJrSGn4i9JMYpiwwgQwK/view?usp=sharing).
 
 ### My Absolute Favorites:
 
