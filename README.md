@@ -18,7 +18,7 @@
 
 
 
-I'm a graduated student holding a bachelor degree in Information Technology 🎓 from SJIT 🏛. I am full-stack developer but love to work in back-end development and also love to contribute open-source🎯. I'm a passionate learner and developer who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a graduated student holding a bachelor degree in Information Technology 🎓 from SJIT 🏛. I am full-stack developer and also love to contribute open-source🎯. I'm a passionate learner and developer who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvan11&label=Profile%20views&color=0e75b6&style=flat" alt="yuvan11" /> </p>
 
@@ -26,12 +26,11 @@ I'm a graduated student holding a bachelor degree in Information Technology 🎓
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Golang, Java, React, Angular, etc...
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🚀 &nbsp; I’m currently working on Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yuvan11) and [Gitlab](https://gitlab.com/yuvan11).
 - 👾 &nbsp; Quote: Take risks and move forward.
 - 📫 &nbsp; How to reach me: yuva.ram11@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1qx4sxDoOplHSLc7H3CcnWWCtiTKiKoO2/view?usp=sharing).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1l2bT7FgsS-4nImnQIXLaHxzwoPr3Y68Q/view?usp=sharing).
 
 ### My Absolute Favorites:
 
